@@ -45,4 +45,5 @@ chapter5[8].before(chapter5[5]);
 elem.classList.add("chapter");
 elem.textContent = 'Глава 8: За пределами ES6';
 console.log(elem);
+
 chapter6[8].append(elem); 
